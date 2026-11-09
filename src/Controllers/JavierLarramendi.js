@@ -1,4 +1,4 @@
-export default class TomasController {
+export default class JavierLarramendiController {
   constructor(jump) {
     /*
     ** Jump is a function that accepts a jump strength (1-3) and makes the bird jump.
